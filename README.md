@@ -1,3 +1,3 @@
 # Example Repository
 Hello world!!
-This is a sample repo by mesbah
+This is a sample repo by Mesbah
